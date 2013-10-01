@@ -1,5 +1,8 @@
 # Hubot Fuzzy Brain
 
+[![Build Status](https://secure.travis-ci.org/evansolomon/hubot-fuzzy-brain.png?branch=master)](http://travis-ci.org/evansolomon/hubot-fuzzy-brain)
+
+
 Give Hubot fuzzy-searchable memories.
 
 Sometimes we want Hubot to remember something, like how to find some information. But then we forget what we told Hubot to remember. Thankfully, Hubot can be smarter than us.
